@@ -6,7 +6,7 @@ int subtract(a,b)
 }
 int add (int a,int b)
 {
-    return a+b;
+    return a+b+b;
 }
 int main()
 {
